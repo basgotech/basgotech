@@ -29,5 +29,5 @@ Skills: Python/ VUE JS / REACT / JS / HTML / CSS/ JAVA/ Flask/ PHP/Node JS
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/basgotech)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=basgotech&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
