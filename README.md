@@ -32,9 +32,5 @@ I also enjoy wireframing, UI, UX, and design in general.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=basgotech&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/PRiNT-ROX/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/PRiNT-ROX)   
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=basgotech&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
