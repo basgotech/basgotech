@@ -5,7 +5,14 @@
 I'm Basliel Tegegn from Ethiopia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and react native, as well as work in WordPress.
 I also enjoy wireframing, UI, UX, and design in general.
 
-Skills: Python/ VUE JS / REACT / JS / HTML / CSS/ JAVA/ Flask/ PHP/Node JS
+<h2 align="center"><i>My Language & Skill <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </i></h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,bash" /></br>
+    <img src="https://skillicons.dev/icons?i=github,swift,python,go,react,kotlin,mysql,nextjs" /></br>
+    <img src="https://skillicons.dev/icons?i=flutter,nix,nodejs,nuxtjs,php,ruby,swift,typescript,vscode" />  
+  </a></p>
 
 - 🔭 I’m currently working on Machine Learning 
 - 🌱 I’m currently learning Python(Django) 
