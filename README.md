@@ -23,7 +23,7 @@ Skills: Python/ VUE JS / REACT / JS / HTML / CSS/ JAVA/ Flask/ PHP/Node JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basgotech)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/basgotech&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=basgotech&show_icons=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/basgotech/contributions?format=svg&private=false)  
 
